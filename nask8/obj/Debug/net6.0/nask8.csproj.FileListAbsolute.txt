@@ -1,0 +1,15 @@
+C:\Users\windows10\Documents\работы по обучению\task\nask8\bin\Debug\net6.0\nask8.exe
+C:\Users\windows10\Documents\работы по обучению\task\nask8\bin\Debug\net6.0\nask8.deps.json
+C:\Users\windows10\Documents\работы по обучению\task\nask8\bin\Debug\net6.0\nask8.runtimeconfig.json
+C:\Users\windows10\Documents\работы по обучению\task\nask8\bin\Debug\net6.0\nask8.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask8\bin\Debug\net6.0\nask8.pdb
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.csproj.AssemblyReference.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.AssemblyInfoInputs.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.AssemblyInfo.cs
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\refint\nask8.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.pdb
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\nask8.genruntimeconfig.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask8\obj\Debug\net6.0\ref\nask8.dll
