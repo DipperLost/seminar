@@ -1,0 +1,15 @@
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.csproj.AssemblyReference.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.AssemblyInfoInputs.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.AssemblyInfo.cs
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask4\bin\Debug\net6.0\nask4.exe
+C:\Users\windows10\Documents\работы по обучению\task\nask4\bin\Debug\net6.0\nask4.deps.json
+C:\Users\windows10\Documents\работы по обучению\task\nask4\bin\Debug\net6.0\nask4.runtimeconfig.json
+C:\Users\windows10\Documents\работы по обучению\task\nask4\bin\Debug\net6.0\nask4.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask4\bin\Debug\net6.0\nask4.pdb
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\refint\nask4.dll
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.pdb
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\nask4.genruntimeconfig.cache
+C:\Users\windows10\Documents\работы по обучению\task\nask4\obj\Debug\net6.0\ref\nask4.dll
